@@ -1,0 +1,4 @@
+explore tmax
+how to run bash within vim - maybe tmax does it. Otherwise look at ConqueTerm
+why output classes with rspec output when using in cucumber step definition
+
